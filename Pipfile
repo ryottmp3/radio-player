@@ -9,6 +9,8 @@ tts = "*"
 tk = "*"
 gtts = "*"
 spotipy = "*"
+spotify-dl = "*"
+spotdl = "*"
 
 [dev-packages]
 
