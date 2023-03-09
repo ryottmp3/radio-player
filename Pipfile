@@ -11,6 +11,9 @@ gtts = "*"
 spotipy = "*"
 spotify-dl = "*"
 spotdl = "*"
+simpleaudio = "*"
+playsound = "*"
+pygobject = "*"
 
 [dev-packages]
 
