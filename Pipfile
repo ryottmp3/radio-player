@@ -5,13 +5,8 @@ name = "pypi"
 
 [packages]
 datetime = "*"
-tts = "*"
-tk = "*"
 gtts = "*"
-spotipy = "*"
-spotify-dl = "*"
 spotdl = "*"
-simpleaudio = "*"
 playsound = "*"
 pygobject = "*"
 
