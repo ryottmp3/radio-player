@@ -9,13 +9,4 @@ topAudio = tts(topText, lang=en, slow=False)
 topAudio.save("announcements/1312.mp3")
 
 
-def songList():
-    """
-    This function will generate the list of songs
-    :return: list of songs
-    """
-    songList = []
-    for root, dirs, files in os.walk("songs"):
-        for file in files:
-            songList.append(os.path.join(root, file))
-    return songList
+currentPlaylist = input("What is the name of the playlist you want to add? ")
