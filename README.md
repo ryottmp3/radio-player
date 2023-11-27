@@ -2,6 +2,6 @@
 
 radio player is an application that is designed to help me automate my radio show on KTEQ.
 
-it will parse a playlist from a .list file and play the files from a subdirectory.
+It chooses a playlist from the playlist directory and plays it, intermittently adding TTS song identifiers to it.
 
-it will also determine the time and play the appropriate announcements
+To download a new playlist, use spotdl <spotify playlist link> in the appropriate playlist directory
