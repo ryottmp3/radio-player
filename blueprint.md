@@ -1,10 +1,10 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->{{ template:title }}
+{{ template:title }}
 
 {{ template:badges }}
 
 {{ template:description }}
 
-bullets
+{{ bullets }}
 
 {{ load:readme/installation.md }}
 
